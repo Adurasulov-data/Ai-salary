@@ -61,21 +61,4 @@ ai-salary-dashboard/
 - Sanoat sohalari orasida farq nisbatan kichik, lekin Retail va Media yuqori ko'rsatkichlarga ega
 - Masofadan ishlash darajasi maoshga sezilarli ta'sir ko'rsatmaydi
 
-## 🚀 Qanday foydalanish mumkin
-
-1. Repozitoriyani yuklab oling yoki klonlang:
-   ```bash
-   git clone https://github.com/username/ai-salary-dashboard.git
-   ```
-2. `.pbix` faylini Power BI Desktop orqali oching (yoki Tableau uchun mos dasturni ishlating)
-3. Filtrlar yordamida ma'lumotlarni o'zingizga kerakli bo'lim bo'yicha tahlil qiling
-
-## 📷 Skrinshotlar
-
-Har bir bo'limning skrinshotlari `images/` papkasida joylashgan.
-
-## 📝 Litsenziya
-
-Ushbu loyiha ta'lim va portfolio maqsadlarida tayyorlangan.
-
-
+Loyiha [ https://github.com/Adurasulov-data ] tomonidan tayyorlangan.
